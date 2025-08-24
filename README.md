@@ -1,0 +1,1 @@
+A Spring Boot-based backend application for managing course registrations, enrollments, and user authentication. The system provides secure REST APIs for both students and administrators, integrating Spring Security, MySQL, and Spring Data JPA for robust data persistence and access control.
